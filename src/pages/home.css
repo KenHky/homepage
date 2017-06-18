@@ -1,0 +1,41 @@
+.home {
+  background-color: #000;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+}
+
+.home h2 {
+  position: relative;
+  top: 20%;
+  display: block;
+  text-indent:-9999px;
+  background: url(../pic/title.png) no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 0;
+  padding-bottom: 8%;
+}
+
+.home ul {
+  position: absolute;
+  bottom: 20%;
+  display: block;
+  width: 100%;
+}
+
+.home ul li {
+  text-align: center;
+  margin-top: 10px;
+  color: #ccc;
+  font-size: 16px;
+  font-weight: 200;
+  cursor: pointer;
+  margin: 10px 20%;
+}
+
+.home .hover {
+  background-color: #ccc!important;
+  color: #000!important;
+}

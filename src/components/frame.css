@@ -1,0 +1,41 @@
+
+.content-box {
+  position: absolute;
+  bottom: 50px;
+  width: 90%;
+  margin-left: 5%;
+  background: url('../pic/church.png') repeat;
+  background-color: #d2b48c;
+  border-radius: .8em;
+  box-shadow: 0 0 0 .6em rgba(102, 85, 85, 0.84);
+  padding: 30px 0 40px;
+}
+.content-box p {
+  margin: 6px 20px;
+}
+.content-box li {
+  margin: 6px 20px;
+  padding: 0 6px;
+  display: table;
+}
+
+
+.content-click {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #777;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.content-select {
+  font-size: 15px;
+  color: #464646;
+  cursor: pointer;
+}
+
+.content-box .hover {
+  background-color: #ad9e83!important;
+  color: #000!important;
+}

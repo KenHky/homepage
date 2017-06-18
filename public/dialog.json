@@ -1,0 +1,538 @@
+{
+  "indexId": 1,
+  "content": [
+    {
+      "id": 1,
+      "mean": "你好，我是黄凯羿，很高兴认识你，请问想了聊些什么？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3292.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 0,
+          "mean": "随便聊聊"
+        }, {
+          "jumpToId": 2,
+          "mean": "我想要你的联系方式！！"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "mean": "告诉你我的邮箱吧：ken.hky@163.com。你是女孩子么？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n2674.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 3,
+          "mean": "是"
+        }, {
+          "jumpToId": 4,
+          "mean": "不是"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "mean": "不会是hr吧？？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 5,
+          "mean": "是"
+        }, {
+          "jumpToId": 6,
+          "mean": "不是"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "mean": "我不搞基哦，欢迎交流~，我的微信是 kenhky",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "mean": "那通过邮箱联系我吧，嘿嘿",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "mean": "偷偷告诉你，我的微信是 kenhky",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "mean": "我喜欢打篮球，喜欢看NBA，你是哪个球队的球迷？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 101,
+          "mean": "凯尔特人"
+        },
+        {
+          "jumpToId": 102,
+          "mean": "勇士"
+        },
+        {
+          "jumpToId": 103,
+          "mean": "其他"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "mean": "我从 08 凯尔特人三巨头时代开始喜欢凯尔特人，一直觉得皮尔斯加内特雷阿伦和朗多是史上最完美的组合了。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/c5e497727526ff520f26d853f0087127.jpg",
+      "color": "#295544",
+      "jumpTo": [
+        {
+          "jumpToId": 1012,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "mean": "10 年本该属于三巨头的冠军被科比夺走了。现在他们都退役了，属于托马斯时代的凯尔特人也越来越让人期待了。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/c5e497727526ff520f26d853f0087127.jpg",
+      "color": "#295544",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "mean": "13赛季勇士和马刺的季后赛让我关注到了第三节无敌的库里，从此爱上了这支行云流水的球队。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/6d876b10bdd6612cf3e439710d2e3519.jpeg",
+      "color": "#c88c6a",
+      "jumpTo": [
+        {
+          "jumpToId": 1021,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "mean": "今年勇士夺得了第二个总冠军，未来还会有更多。我们错过了六冠的乔丹公牛，现在该见证库里杜兰特的勇士王朝了~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/969d39310587baefa3c5c10f04755707.jpg",
+      "color": "#f9c436",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "mean": "你喜欢什么球队？约球么？加我微信聊聊~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "mean": "什么是最好的语言？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 111,
+          "mean": "汉语"
+        },
+        {
+          "jumpToId": 112,
+          "mean": "php"
+        },
+        {
+          "jumpToId": 113,
+          "mean": "js"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "mean": "没错，博大精深的汉语是最好的语言！！",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "mean": "三个程序员坐在格子间里编程，一个程序员一言不发，他用的是python。一个程序员写一会儿就按一下编译，然后就玩会儿手机，他用的是C++。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1121,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1121,
+      "mean": "一个程序员坐在那里浏览网页，不时飞快的键入一些字符。经理看到，怒道：你怎么不干活，尽在上网。回答：我在查实现这个功能需要用什么函数。他用的是PHP。（来源知乎）",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "mean": "原来你也是前端呀，你最喜欢用什么框架？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1131,
+          "mean": "react"
+        },
+        {
+          "jumpToId": 1132,
+          "mean": "vue"
+        },
+        {
+          "jumpToId": 1133,
+          "mean": "angular"
+        }
+      ]
+    },
+    {
+      "id": 1131,
+      "mean": "相比 vue, 我也更习惯 react 的 all in js，工作中用 react 也比较多。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11311,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11311,
+      "mean": "react 开创了前端新的时代，virtual DOM 的实现使得 view 层不再局限于浏览器的黑盒子，js 也能很方便的写移动端了。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11312,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11312,
+      "mean": "react 拥有目前最好的开发者社区，我很看好 react 的未来~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1132,
+      "mean": "我是尤小右的粉丝，我觉得他是个人开发者的极限了（tj大神之类的另算）。一己之力写了一个这么完美的框架。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11321,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11321,
+      "mean": "一周就能上手，拥有完美的文档，而且因为是国人的关系，在国内的社区支持度也很高。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11322,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11322,
+      "mean": "快看我的衣服！！尤羽溪同款喔",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3473.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1133,
+      "mean": "在我实习之前只用过 jQuery 。实习的时候接触到 angular ，被双向绑定深深的吸引了。不操作 dom 就能更新页面，还能组件化，简直就是前端开发的福音。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11331,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11331,
+      "mean": "后来随着开发的深入的确感觉到了一些性能问题，也做了一些优化，像 track by 之类（react也需要在遍历的时候给 id 方便减少更新）。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11332,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11332,
+      "mean": "而且 angular 太重了，react 全家桶至少还能选择，angular 是所有的东西一股脑的集成在一起。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 11333,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 11333,
+      "mean": "angular 我只用过 1.0 版本，angular2 没有去尝试了。如果你用 angular2，快来安利我呀~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "mean": "最近你有看什么电影么？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 121,
+          "mean": "神奇女侠"
+        },
+        {
+          "jumpToId": 122,
+          "mean": "加勒比海盗5"
+        },
+        {
+          "jumpToId": 123,
+          "mean": "爵迹"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "mean": "盖尔加朵好美啊！！速度与激情的时候就觉得她很美。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/313a5cae0e3d6cea387754e072a47dcf.jpg",
+      "color": "#bacad7",
+      "jumpTo": [
+        {
+          "jumpToId": 1211,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1211,
+      "mean": "现在她在我最美女生排行榜里排第二，我不会告诉你第一是谁的~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/313a5cae0e3d6cea387754e072a47dcf.jpg",
+      "color": "#bacad7",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "mean": "加勒比海盗这一次诚意足够，笑点也很多，但是剧情感觉很空洞，还是儿子救父亲，死人复活，复活的人又死。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/902a34bbc313efa6a57a0e9c18ab956c.jpg",
+      "color": "#b4a24e",
+      "jumpTo": [
+        {
+          "jumpToId": 1221,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1221,
+      "mean": "我还是会看下一部的，每个男人都向往大海嘛~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "mean": "呃，冷场了。。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "mean": "喜欢听什么歌么？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 131,
+          "mean": "小半"
+        },
+        {
+          "jumpToId": 132,
+          "mean": "天空之城"
+        },
+        {
+          "jumpToId": 133,
+          "mean": "QQ爱"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "mean": "有品味~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#7ca1aa",
+      "jumpTo": [
+        {
+          "jumpToId": 1311,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1311,
+      "mean": "下次一起去听现场呀，陈粒的现场简直是稳定又迷人，而且真人也很漂亮呀。",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_20170521_182723.jpg",
+      "color": "#99a0af",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "mean": "你听的是久石让么？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n2674.jpg",
+      "color": "#99a0af",
+      "jumpTo": [
+        {
+          "jumpToId": 1321,
+          "mean": "是"
+        },
+        {
+          "jumpToId": 1322,
+          "mean": "不是"
+        }
+      ]
+    },
+    {
+      "id": 1321,
+      "mean": "呃，原来你喜欢听纯音乐呀~",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_3264.jpg",
+      "color": "#99a0af",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 1322,
+      "mean": "原来你是我逼哥的粉丝呀，一起去南京听跨年演唱会吧！",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#99a0af",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "mean": "你一定是骗我的，对不对？？",
+      "pic": "http://7xtb3a.com2.z0.glb.clouddn.com/IMG_n8325.jpg",
+      "color": "#99a0af",
+      "jumpTo": [
+        {
+          "jumpToId": 1,
+          "mean": ""
+        }
+      ]
+    }
+  ]
+}
